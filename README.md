@@ -2,7 +2,7 @@
 
 1. The data we collect about you   
 
-We collect your personal data for authentication, app functionality.   
+We collect your personal data for authentication and for the app functionality.   
 We may collect, use and store the following different kinds of personal data about you:  
 
 *Information you provide to us: We receive and store the information you provide to us including your identity data   
